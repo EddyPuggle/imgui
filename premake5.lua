@@ -1,4 +1,4 @@
-project "IMGUI"
+project "imgui"
     kind "StaticLib"
     language "C++"
     cppdialect "C++17"
