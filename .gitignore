@@ -1,6 +1,12 @@
 # OWN IGNORES
 **bin/
 **bin-int/
+.vs/
+.vscode/
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+**.csproj
 ## OSX artifacts
 .DS_Store
 
